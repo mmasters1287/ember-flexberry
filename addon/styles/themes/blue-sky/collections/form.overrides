@@ -129,6 +129,11 @@ option {
     width: 100%;
 }
 
+.ui.input.nav-bar-search-page input:not(.hidden) {
+    text-align: center;
+    max-width: 80px;
+}
+
 .flexberry-file-error-modal-dialog .flexberry-file-error-modal-dialog-content {
     text-align: center;
 }
